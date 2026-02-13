@@ -22,7 +22,7 @@
 
 - **React 18** + **Vite**  
 - **TailwindCSS**  
-- **JavaScript (ES6+)**  
+- **JavaScript**  
 - **OpenWeather REST API**  
 - **LocalStorage**  
 - **GitHub Pages / любой веб-сервер для фронтенда**  
@@ -42,4 +42,4 @@ react-weather-app/
 │── vite.config.js          # Конфигурация Vite
 │── tailwind.config.js      # Конфигурация TailwindCSS
 │── postcss.config.js       # Tailwind + autoprefixer
-└── README.md               # Этот файл
+└── README.md               # Описание проекта
