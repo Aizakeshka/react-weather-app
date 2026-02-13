@@ -25,7 +25,7 @@
 - **JavaScript**  
 - **OpenWeather REST API**  
 - **LocalStorage**  
-- **GitHub Pages / любой веб-сервер для фронтенда**  
+- **GitHub Pages**  
 
 ---
 
